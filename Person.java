@@ -1,1 +1,2 @@
-Diamaludin, Jr. M. Mariga
+1st name: Diamaludin, Jr.
+last name: Mariga
